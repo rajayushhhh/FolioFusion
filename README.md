@@ -76,42 +76,51 @@ Reset form anytime using the **Reset** button.
 ---
 
 ## Screenshots
+---
 
 ### Home / Generator Page
 
 <img width="1435" height="816" alt="generatorPage" src="https://github.com/user-attachments/assets/3f19cfc6-c999-408b-a9b0-2be0b1196f68" />
 
+---
+
 ### Navbar
 
 <img width="1107" height="99" alt="navbar" src="https://github.com/user-attachments/assets/379bac79-29a5-4f6f-af8b-e333909a1509" />
 
+---
 
 
 ### Add Projects 
 
 <img width="1051" height="432" alt="Addproject" src="https://github.com/user-attachments/assets/a1746efb-a907-4212-97ee-3298da69d2b5" />
 
-
+---
 
 ### Projects Preview
 
 <img width="1032" height="201" alt="Myprojects" src="https://github.com/user-attachments/assets/ace0cbd0-ab34-4938-955f-34244da3d073" />
 
+---
 
 ### My Skills
 
 
 <img width="1050" height="318" alt="Addskills" src="https://github.com/user-attachments/assets/a0c0bbe9-3abf-48ca-950a-cff893dbf9c0" />
  
+---
 
 ### Portfolio Preview Page
 
 <img width="1447" height="828" alt="generated" src="https://github.com/user-attachments/assets/cac31acc-2ab9-479f-8067-0a4d2df72631" />
 
+---
+
 ### Add Contacts
 
 <img width="1053" height="366" alt="AddContacts" src="https://github.com/user-attachments/assets/1dad535f-26ae-4f67-8cf6-c6501c0d5e1a" />
 
+---
 
 ### Contacts
 
