@@ -50,7 +50,7 @@ FolioFusion is a simple and interactive **portfolio generator** built with Next.
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/foliofusion.git
+git clone https://github.com/rajayushhhh/foliofusion.git
 cd foliofusion
 npm install
 ```
@@ -79,19 +79,45 @@ Reset form anytime using the **Reset** button.
 
 ### Home / Generator Page
 
-![Screenshot 1](./screenshots/home.png)
+<img width="1435" height="816" alt="generatorPage" src="https://github.com/user-attachments/assets/3f19cfc6-c999-408b-a9b0-2be0b1196f68" />
+
+### Navbar
+
+<img width="1107" height="99" alt="navbar" src="https://github.com/user-attachments/assets/379bac79-29a5-4f6f-af8b-e333909a1509" />
+
+
+
+### Add Projects 
+
+<img width="1051" height="432" alt="Addproject" src="https://github.com/user-attachments/assets/a1746efb-a907-4212-97ee-3298da69d2b5" />
+
+
 
 ### Projects Preview
 
-![Screenshot 2](./screenshots/projects.png)
+<img width="1032" height="201" alt="Myprojects" src="https://github.com/user-attachments/assets/ace0cbd0-ab34-4938-955f-34244da3d073" />
 
-### Skills Preview
 
-![Screenshot 3](./screenshots/skills.png)
+### My Skills
+
+
+<img width="1050" height="318" alt="Addskills" src="https://github.com/user-attachments/assets/a0c0bbe9-3abf-48ca-950a-cff893dbf9c0" />
+ 
 
 ### Portfolio Preview Page
 
-![Screenshot 4](./screenshots/portfolio.png)
+<img width="1447" height="828" alt="generated" src="https://github.com/user-attachments/assets/cac31acc-2ab9-479f-8067-0a4d2df72631" />
+
+### Add Contacts
+
+<img width="1053" height="366" alt="AddContacts" src="https://github.com/user-attachments/assets/1dad535f-26ae-4f67-8cf6-c6501c0d5e1a" />
+
+
+### Contacts
+
+<img width="1075" height="251" alt="contacts" src="https://github.com/user-attachments/assets/13d1acf1-0e50-4fe9-b3bb-edf1059a4a3c" />
+
+
 
 ---
 
@@ -107,8 +133,10 @@ Check out the live deployed website here:
 
 Watch a demo of FolioFusion in action:
 
-[Demo Video](./demo/foliofusion-demo.mp4)
+
+
+https://github.com/user-attachments/assets/e8629a0a-74c8-4675-8731-facd4c27b9c1
+
+
 
 ---
-
-*This project was developed as a simple, user-friendly tool for quickly generating a personalized portfolio. Perfect for developers, designers, and students looking to showcase their work professionally.*
